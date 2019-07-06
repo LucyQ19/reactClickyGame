@@ -21,6 +21,6 @@ To use reactClickyGame web application from your local environment,
 
 ### ThanK you for visiting my GitHub!
 
-Enjoy using my Heroku-deployed version here:
+Enjoy using my Heroku-deployed version here: https://fast-shelf-39765.herokuapp.com/
 
 If you like this app, you may enjoy using more of my apps here: https://lucyq19.github.io/professionalPortfolio/
