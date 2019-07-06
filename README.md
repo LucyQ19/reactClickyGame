@@ -1,6 +1,6 @@
 # reactClickyGame: Nelson-Atkins Museum of Art edition!
 
-![Image of reactClickyGame](./images/clickyGame.png)
+![Image of reactClickyGame](./images/reactClickyGame.png)
 
 ### About this App:
 
