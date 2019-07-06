@@ -16,7 +16,7 @@ To use reactClickyGame web application from your local environment,
 
 1. Clone my repo using the command line.
 2. Change the directory to the cloned repo.
-3. Install all required NPM packages by typing npm install (or yarn add).
+3. Install all required NPM packages by typing npm i (or yarn add < packages >).
 4. Start the application by typing npm start (or yarn start).
 
 ### ThanK you for visiting my GitHub!
