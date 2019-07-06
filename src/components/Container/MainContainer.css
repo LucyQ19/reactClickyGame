@@ -1,0 +1,10 @@
+.gameMessage {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.gameScores {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
